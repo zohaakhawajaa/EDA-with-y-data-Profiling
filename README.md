@@ -1,21 +1,23 @@
-# EDA with ydata-profiling
+# EDA with ydata-profiling & Skimpy
 
-A small Python project demonstrating **Exploratory Data Analysis (EDA)** using `ydata-profiling`.  
-This project generates a detailed data profiling report for any dataset, making it easy to understand data distributions, correlations, and missing values.
+A small Python project demonstrating **Exploratory Data Analysis (EDA)** using `ydata-profiling` and `Skimpy`.  
+It generates **interactive and summary reports** for datasets, helping you quickly understand distributions, correlations, and missing values.
 
 ---
 
 ## Features
 
-- Quick EDA report generation  
+- Generate detailed **interactive reports** with ydata-profiling  
+- Quick **summary reports** using Skimpy  
 - Handles numerical and categorical data  
 - Detects missing values, correlations, and distributions  
-- Produces interactive HTML report
 
 ---
 
 ## Installation
+Install required packages:
 
+pip install -r requirements.txt
 Clone the repository:
 
 ```bash
