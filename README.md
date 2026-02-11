@@ -18,7 +18,7 @@ It generates **interactive and summary reports** for datasets, helping you quick
 Install required packages:
 
 pip install -r requirements.txt
-Clone the repository:
+## Clone the repository:
 
 ```bash
 git clone https://github.com/ZohaKhawaja/eda-with-ydata-profiling.git
